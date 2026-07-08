@@ -10,7 +10,7 @@
 - 🧠 Interested in **NLP**, still leveling up my **Machine Learning**
 - 🔄 Comfortable working in **Agile** teams 
 - 🔥 Works well under pressure — deadlines don't scare me, they motivate me
-
+- 📡 Open to internships, research collaborations, and interesting open-source projects
 
 <br/>
 
@@ -29,7 +29,7 @@
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="260" alt="coding gif"/>
+<img src="https://media.giphy.com/media/JG7BtL7VPVrvgx3TPR/giphy.gif" width="260" alt="vibe coding gif"/>
 
 </td>
 </tr>
@@ -39,30 +39,86 @@
 
 ## 🧩 Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
 
-![Python](https://skillicons.dev/icons?i=python)
-![C](https://skillicons.dev/icons?i=c)
-![Cpp](https://skillicons.dev/icons?i=cpp)
-![Java](https://skillicons.dev/icons?i=java)
-![JS](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![OpenCV](https://skillicons.dev/icons?i=opencv)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Oracle](https://skillicons.dev/icons?i=oracle)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Postman](https://skillicons.dev/icons?i=postman)
-![Vercel](https://skillicons.dev/icons?i=vercel)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-</div>
+</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td><b>AI / ML</b></td>
+<td>
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td>
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td><b>Testing</b></td>
+<td>
+
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td><b>Tools & DevOps</b></td>
+<td>
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -70,8 +126,17 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SAfreen06&show_icons=true&theme=synthwave&hide_border=true&bg_color=0F2027&title_color=00E5C7&icon_color=00E5C7" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAfreen06&layout=compact&theme=synthwave&hide_border=true&bg_color=0F2027&title_color=00E5C7" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SAfreen06&show_icons=true&theme=synthwave&hide_border=true&bg_color=0F2027&title_color=00E5C7&icon_color=00E5C7" />
+
+</div>
+
+---
+
+## 🥇 Most Used Languages
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAfreen06&layout=compact&theme=synthwave&hide_border=true&bg_color=0F2027&title_color=00E5C7&langs_count=8" />
 
 </div>
 
@@ -93,14 +158,7 @@
 
 </div>
 
----
 
-## 🏅 Awards & Extracurriculars
-
-- 🏆 **Finalist** — IUTCS CodeSprint 2026
-- 🌍 **88th Globally** — Physics Brawl Online, International Physics Competition (2023)
-
----
 
 <div align="center">
 
