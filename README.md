@@ -1,6 +1,9 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0F2027,100:2C5364&height=140&section=header" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=36&pause=1000&color=00E5C7&center=true&vCenter=true&width=500&height=60&lines=Sanjana+Afreen+%3A)" alt="name animation" style="margin-top:-90px;"/>
+
+*surviving the tech world, one bug at a time*
+
 </div>
 
 <table>
@@ -9,12 +12,11 @@
 
 ### 3rd Year Software Engineering Student
 
-- 🧠 Interested in **NLP**, still leveling up my **Machine Learning**
 - 💻 Backend-leaning **MERN stack** developer
-- 🔄 Comfortable working in **Agile** teams — sprints, standups, all of it
-- 🔥 Works well under pressure — deadlines don't scare me, they motivate me
+- 🧠 Interested in **NLP**, still leveling up my **Machine Learning**
+- 🔄 Comfortable working in **Agile** teams 
 - 📡 Open to internships, research collaborations, and interesting open-source projects
-- 💬 Ask me about anything, I'm happy to help (or at least Google it convincingly)
+- 🔥 Works well under pressure — deadlines don't scare me, they motivate me B)
 
 <br/>
 
