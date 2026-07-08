@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=36&pause=1000&color=00E5C7&center=true&vCenter=true&width=500&height=60&lines=Sanjana+Afreen :)" alt="name animation"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0F2027,100:2C5364&height=140&section=header" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=36&pause=1000&color=00E5C7&center=true&vCenter=true&width=500&height=60&lines=Sanjana+Afreen+%3A)" alt="name animation" style="margin-top:-90px;"/>
 </div>
 
 <table>
@@ -8,11 +9,12 @@
 
 ### 3rd Year Software Engineering Student
 
-- 💻 Backend-leaning **MERN stack** developer
 - 🧠 Interested in **NLP**, still leveling up my **Machine Learning**
-- 🔄 Comfortable working in **Agile** teams
+- 💻 Backend-leaning **MERN stack** developer
+- 🔄 Comfortable working in **Agile** teams — sprints, standups, all of it
 - 🔥 Works well under pressure — deadlines don't scare me, they motivate me
 - 📡 Open to internships, research collaborations, and interesting open-source projects
+- 💬 Ask me about anything, I'm happy to help (or at least Google it convincingly)
 
 <br/>
 
@@ -120,23 +122,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-stats-extended.vercel.app/api?username=SAfreen06&show_icons=true&theme=synthwave&hide_border=true&bg_color=0F2027&title_color=00E5C7&icon_color=00E5C7" />
-
-</div>
-
----
-
-## 🥇 Most Used Languages
-
-<div align="center">
-
-<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SAfreen06&layout=compact&theme=synthwave&hide_border=true&bg_color=0F2027&title_color=00E5C7&langs_count=8" />
-
-</div>
+## 📊 GitHub Activity
 
 <div align="center">
 
