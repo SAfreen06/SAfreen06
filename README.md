@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=36&pause=1000&color=00E5C7&center=true&vCenter=true&width=500&height=60&lines=Sanjana+Afreen" alt="name animation"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=36&pause=1000&color=00E5C7&center=true&vCenter=true&width=500&height=60&lines=Sanjana+Afreen :)" alt="name animation"/>
 </div>
 
 <table>
@@ -8,12 +8,11 @@
 
 ### 3rd Year Software Engineering Student
 
-- 🧠 Interested in **NLP**, still leveling up my **Machine Learning**
 - 💻 Backend-leaning **MERN stack** developer
-- 🔄 Comfortable working in **Agile** teams — sprints, standups, all of it
+- 🧠 Interested in **NLP**, still leveling up my **Machine Learning**
+- 🔄 Comfortable working in **Agile** teams
 - 🔥 Works well under pressure — deadlines don't scare me, they motivate me
 - 📡 Open to internships, research collaborations, and interesting open-source projects
-- 💬 Ask me about anything, I'm happy to help (or at least Google it convincingly)
 
 <br/>
 
