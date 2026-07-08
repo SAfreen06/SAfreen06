@@ -1,4 +1,6 @@
-<h1 align="center">Sanjana Afreen</h1>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=36&pause=1000&color=00E5C7&center=true&vCenter=true&width=500&height=60&lines=Sanjana+Afreen" alt="name animation"/>
+</div>
 
 <table>
 <tr>
@@ -6,11 +8,12 @@
 
 ### 3rd Year Software Engineering Student
 
-- 💻 Backend-leaning **MERN stack** developer
 - 🧠 Interested in **NLP**, still leveling up my **Machine Learning**
-- 🔄 Comfortable working in **Agile** teams 
+- 💻 Backend-leaning **MERN stack** developer
+- 🔄 Comfortable working in **Agile** teams — sprints, standups, all of it
 - 🔥 Works well under pressure — deadlines don't scare me, they motivate me
 - 📡 Open to internships, research collaborations, and interesting open-source projects
+- 💬 Ask me about anything, I'm happy to help (or at least Google it convincingly)
 
 <br/>
 
@@ -24,10 +27,6 @@
 
 </td>
 <td width="40%" align="center">
-
-<img src="https://api.dicebear.com/7.x/adventurer/svg?seed=SanjanaAfreen&backgroundColor=0F2027,2C5364&backgroundType=gradientLinear" width="240" alt="avatar"/>
-
-<br/><br/>
 
 <img src="https://media.giphy.com/media/JG7BtL7VPVrvgx3TPR/giphy.gif" width="260" alt="vibe coding gif"/>
 
@@ -126,7 +125,7 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SAfreen06&show_icons=true&theme=synthwave&hide_border=true&bg_color=0F2027&title_color=00E5C7&icon_color=00E5C7" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=SAfreen06&show_icons=true&theme=synthwave&hide_border=true&bg_color=0F2027&title_color=00E5C7&icon_color=00E5C7" />
 
 </div>
 
@@ -136,7 +135,7 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAfreen06&layout=compact&theme=synthwave&hide_border=true&bg_color=0F2027&title_color=00E5C7&langs_count=8" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SAfreen06&layout=compact&theme=synthwave&hide_border=true&bg_color=0F2027&title_color=00E5C7&langs_count=8" />
 
 </div>
 
