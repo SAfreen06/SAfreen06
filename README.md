@@ -4,11 +4,13 @@
 <tr>
 <td width="60%" valign="top">
 
-### I'm a Software Engineering student at IUT
+### 3rd Year Software Engineering Student
 
-- 🧪 Currently building **Novara**, an AI-powered research management platform
-- 🐍 Currently deep in **RAG pipelines and LangChain agents**
-- 💬 Ask me about anything, I'm happy to help (or at least Google it convincingly)
+- 💻 Backend-leaning **MERN stack** developer
+- 🧠 Interested in **NLP**, still leveling up my **Machine Learning**
+- 🔄 Comfortable working in **Agile** teams 
+- 🔥 Works well under pressure — deadlines don't scare me, they motivate me
+
 
 <br/>
 
@@ -23,7 +25,11 @@
 </td>
 <td width="40%" align="center">
 
-<img src="https://api.dicebear.com/7.x/notionists/svg?seed=SanjanaAfreen&backgroundColor=00E5C7" width="260" alt="avatar"/>
+<img src="https://api.dicebear.com/7.x/adventurer/svg?seed=SanjanaAfreen&backgroundColor=0F2027,2C5364&backgroundType=gradientLinear" width="240" alt="avatar"/>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="260" alt="coding gif"/>
 
 </td>
 </tr>
