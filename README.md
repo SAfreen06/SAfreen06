@@ -11,7 +11,7 @@
 <td width="60%" valign="top">
 
 
-Third-year Software Engineering student with a backend-oriented MERN stack background. Interested in Natural Language Processing (NLP) and continuously building expertise in Machine Learning. Experienced in collaborative Agile development and eager to contribute to internships, research initiatives, and open-source projects. Strong problem-solving skills with the ability to perform effectively in deadline-driven environments.
+Third-year Software Engineering student interested in Backend Systems, Databases, Cloud Technologies, and DevOps, with hands-on experience in full-stack development and modern software engineering tools. I also have a growing interest in Natural Language Processing (NLP) and Machine Learning through research and projects. Experienced in collaborative Agile development and eager to contribute to internships, research initiatives, and open-source projects.
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SAfreen06&color=00E5C7&style=flat-square&label=PROFILE+VIEWS)
